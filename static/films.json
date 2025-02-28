@@ -1,0 +1,302 @@
+[
+    {
+        "title": "Avatar",
+        "year": 2009,
+        "revenue": "$2,923,706,026",
+        "country": "United Kingdom"
+    },
+    {
+        "title": "Avengers: Endgame",
+        "year": 2019,
+        "revenue": "$2,797,501,328",
+        "country": "United States"
+    },
+    {
+        "title": "Avatar: The Way of Water",
+        "year": 2022,
+        "revenue": "$2,320,250,281",
+        "country": "United States"
+    },
+    {
+        "title": "Titanic",
+        "year": 1997,
+        "revenue": "T$2,257,844,554",
+        "country": "United States"
+    },
+    {
+        "title": "Star Wars: The Force Awakens",
+        "year": 2015,
+        "revenue": "$2,068,223,624",
+        "country": "United States"
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "year": 2018,
+        "revenue": "$2,048,359,754",
+        "country": "United States"
+    },
+    {
+        "title": "Spider-Man: No Way Home",
+        "year": 2021,
+        "revenue": "$1,922,598,800",
+        "country": "United States"
+    },
+    {
+        "title": "Ne Zha 2",
+        "year": 2025,
+        "revenue": "$1,838,150,155",
+        "country": "China"
+    },
+    {
+        "title": "Inside Out 2",
+        "year": 2024,
+        "revenue": "$1,698,863,816",
+        "country": "United States"
+    },
+    {
+        "title": "Jurassic World",
+        "year": 2015,
+        "revenue": "$1,671,537,444",
+        "country": "United States"
+    },
+    {
+        "title": "The Lion King",
+        "year": 2019,
+        "revenue": "$1,656,943,394",
+        "country": "United States"
+    },
+    {
+        "title": "The Avengers",
+        "year": 2012,
+        "revenue": "$1,518,815,515",
+        "country": "United States"
+    },
+    {
+        "title": "Furious 7",
+        "year": 2015,
+        "revenue": "$1,515,341,399",
+        "country": "United States"
+    },
+    {
+        "title": "Top Gun: Maverick",
+        "year": 2022,
+        "revenue": "$1,495,696,292",
+        "country": "United States"
+    },
+    {
+        "title": "Frozen 2",
+        "year": 2019,
+        "revenue": "$1,450,026,933",
+        "country": "United States"
+    },
+    {
+        "title": "Barbie",
+        "year": 2023,
+        "revenue": "$1,447,038,421",
+        "country": "United States"
+    },
+    {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015,
+        "revenue": "$1,402,809,540",
+        "country": "United States"
+    },
+    {
+        "title": "The Super Mario Bros. Movie",
+        "year": 2023,
+        "revenue": "$1,362,566,989",
+        "country": "United States"
+    },
+    {
+        "title": "Black Panther",
+        "year": 2018,
+        "revenue": "$1,347,280,838",
+        "country": "United States"
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows \u2013 Part 2",
+        "year": 2011,
+        "revenue": "$1,342,139,727",
+        "country": "United Kingdom"
+    },
+    {
+        "title": "Deadpool & Wolverine",
+        "year": 2024,
+        "revenue": "$1,338,073,645",
+        "country": "United States"
+    },
+    {
+        "title": "Star Wars: The Last Jedi",
+        "year": 2017,
+        "revenue": "$1,332,539,889",
+        "country": "United States"
+    },
+    {
+        "title": "Jurassic World: Fallen Kingdom",
+        "year": 2018,
+        "revenue": "$1,308,473,425",
+        "country": "China"
+    },
+    {
+        "title": "Frozen",
+        "year": 2013,
+        "revenue": "F$1,290,000,000",
+        "country": "United States"
+    },
+    {
+        "title": "Beauty and the Beast",
+        "year": 2017,
+        "revenue": "$1,263,521,126",
+        "country": "United States"
+    },
+    {
+        "title": "Incredibles 2",
+        "year": 2018,
+        "revenue": "$1,242,805,359",
+        "country": "United States"
+    },
+    {
+        "title": "The Fate of the Furious",
+        "year": 2017,
+        "revenue": "F8$1,238,764,765",
+        "country": "United States"
+    },
+    {
+        "title": "Iron Man 3",
+        "year": 2013,
+        "revenue": "$1,214,811,252",
+        "country": "United States"
+    },
+    {
+        "title": "Minions",
+        "year": 2015,
+        "revenue": "$1,159,444,662",
+        "country": "United States"
+    },
+    {
+        "title": "Captain America: Civil War",
+        "year": 2016,
+        "revenue": "$1,153,337,496",
+        "country": "United States"
+    },
+    {
+        "title": "Aquaman",
+        "year": 2018,
+        "revenue": "$1,148,528,393",
+        "country": "United States"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": 2003,
+        "revenue": "$1,147,997,407",
+        "country": "New Zealand"
+    },
+    {
+        "title": "Spider-Man: Far From Home",
+        "year": 2019,
+        "revenue": "$1,132,679,685",
+        "country": "United States"
+    },
+    {
+        "title": "Captain Marvel",
+        "year": 2019,
+        "revenue": "$1,128,274,794",
+        "country": "United States"
+    },
+    {
+        "title": "Transformers: Dark of the Moon",
+        "year": 2011,
+        "revenue": "$1,123,794,079",
+        "country": "United States"
+    },
+    {
+        "title": "Skyfall",
+        "year": 2012,
+        "revenue": "$1,108,594,137",
+        "country": "United Kingdom"
+    },
+    {
+        "title": "Transformers: Age of Extinction",
+        "year": 2014,
+        "revenue": "$1,104,054,072",
+        "country": "United States"
+    },
+    {
+        "title": "The Dark Knight Rises",
+        "year": 2012,
+        "revenue": "$1,081,169,825",
+        "country": "United States"
+    },
+    {
+        "title": "Joker",
+        "year": 2019,
+        "revenue": "$1,074,458,282",
+        "country": "United States"
+    },
+    {
+        "title": "Star Wars: The Rise of Skywalker",
+        "year": 2019,
+        "revenue": "$1,074,144,248",
+        "country": "United States"
+    },
+    {
+        "title": "Toy Story 4",
+        "year": 2019,
+        "revenue": "$1,073,394,593",
+        "country": "United States"
+    },
+    {
+        "title": "Toy Story 3",
+        "year": 2010,
+        "revenue": "$1,066,970,811",
+        "country": "United States"
+    },
+    {
+        "title": "Pirates of the Caribbean: Dead Man's Chest",
+        "year": 2006,
+        "revenue": "$1,066,179,747",
+        "country": "United States"
+    },
+    {
+        "title": "Rogue One: A Star Wars Story",
+        "year": 2016,
+        "revenue": "$1,057,420,387",
+        "country": "United States"
+    },
+    {
+        "title": "Aladdin",
+        "year": 2019,
+        "revenue": "$1,050,693,953",
+        "country": "United States"
+    },
+    {
+        "title": "Moana 2",
+        "year": 2024,
+        "revenue": "$1,050,224,044",
+        "country": "United States"
+    },
+    {
+        "title": "Star Wars: Episode I \u2013 The Phantom Menace",
+        "year": 1999,
+        "revenue": "$1,046,515,409",
+        "country": "United States"
+    },
+    {
+        "title": "Pirates of the Caribbean: On Stranger Tides",
+        "year": 2011,
+        "revenue": "$1,045,713,802",
+        "country": "United States"
+    },
+    {
+        "title": "Jurassic Park",
+        "year": 1993,
+        "revenue": "$1,037,535,230",
+        "country": "United States"
+    },
+    {
+        "title": "Despicable Me 3",
+        "year": 2017,
+        "revenue": "$1,034,800,131",
+        "country": "United States"
+    }
+]

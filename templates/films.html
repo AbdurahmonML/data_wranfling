@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Film Database</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Film Database</h1>
+
+        <!-- Search and Sort Controls -->
+        <div class="controls">
+            <div>
+                <input type="text" id="search" placeholder="Search by title" value="{{ search_term }}">
+                <button id="search-button" onclick="searchFilms()">Search</button>
+            </div>
+            <div>
+                <select id="sort" onchange="sortFilms()">
+                    <option value="year" {% if sort_by == 'year' %}selected{% endif %}>Sort by Year</option>
+                    <option value="revenue" {% if sort_by == 'revenue' %}selected{% endif %}>Sort by Revenue</option>
+                </select>
+                <select id="order" onchange="sortFilms()">
+                    <option value="asc" {% if sort_order == 'asc' %}selected{% endif %}>Ascending</option>
+                    <option value="desc" {% if sort_order == 'desc' %}selected{% endif %}>Descending</option>
+                </select>
+            </div>
+        </div>
+
+        <!-- Film Table -->
+        <table id="film-table">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Directors</th>
+                    <th>Release Year</th>
+                    <th>Revenue ($)</th>
+                    <th>Country</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for film in films %}
+                <tr>
+                    <td>{{ film[1] }}</td>
+                    <td>{{ film[2] }}</td>
+                    <td>{{ film[3] }}</td>
+                    <td>{{ film[4] }}</td>
+                    <td>{{ film[4] }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
